@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/67124925/213930989-52f9e0eb-0b46-40bf-ab1e-cee9a7d0dfc2.png)
 ![image](https://user-images.githubusercontent.com/67124925/213931009-105701df-e249-42b2-a834-1cd6d7aba841.png)
 <img src="https://img.shields.io/badge/Node.js - green?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nodemon - green?style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nodemon - green?style=for-the-badge&logo=Nodemon&logoColor=white"/>
 
  
 
