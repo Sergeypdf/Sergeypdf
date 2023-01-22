@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/67124925/213931009-105701df-e249-42b2-a834-1cd6d7aba841.png)
 <img src="https://img.shields.io/badge/Node.js - green?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nodemon - green?style=for-the-badge&logo=Nodemon&logoColor=DarkOliveGreen"/>
-<img src="https://img.shields.io/badge/Notepad++ - white?style=for-the-badge&logo=Notepad++&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notepad++ - green?style=for-the-badge&logo=Notepad++&logoColor=black"/>
  
 
 ![213925258-47f871c6-d9d5-4264-b85a-1d55312e5da4](https://user-images.githubusercontent.com/67124925/213931024-01c65a7e-fab5-4ff6-b527-6d5f4fdeede2.png)
