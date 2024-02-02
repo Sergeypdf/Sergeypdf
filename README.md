@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sergey-voytov-9a731270">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+  </div>
 
 ### Hi! I am Sergey, a web designer/developer focused on crafting great web experiences. 
     I enjoy creating beautifully designed, intuitive and functional websites. 👋
