@@ -5,6 +5,7 @@
     <br>
     <br>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://sergeypdf.com/ghpvc/?username=sergeypdf&style=flat-square&color=blue" alt=""/>
   </a>
     </div>
 
