@@ -4,12 +4,11 @@
   <a href="https://www.linkedin.com/in/sergey-voytov-9a731270">
     <br>
     <br>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>    
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+    ![](https://komarev.com/ghpvc/?username=Sergeypdf&abbreviated=true)
   </a>
 </div>
-  <a href="https://github.com/Sergeypdf/github-profile-views-counter">
-    <img src="https://sergeypdf.github.io/ghpvc/?username=Sergeypdg&style=for-the-badge">    
-</a>
+
     
 
 ### Hi! I am Sergey, a web designer/developer focused on crafting great web experiences. 
