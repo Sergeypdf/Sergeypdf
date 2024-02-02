@@ -6,11 +6,11 @@
     <br>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>    
   </a>
+</div>
   <a href="https://github.com/Sergeypdf/github-profile-views-counter">
-    <img src="https://sergeypdf.github.io/ghpvc/?username=Sergeypdg&style=for-the-badge">
-    
+    <img src="https://sergeypdf.github.io/ghpvc/?username=Sergeypdg&style=for-the-badge">    
 </a>
-    </div>
+    
 
 ### Hi! I am Sergey, a web designer/developer focused on crafting great web experiences. 
     I enjoy creating beautifully designed, intuitive and functional websites. 👋
