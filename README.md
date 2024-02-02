@@ -87,6 +87,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxqdDVuYzU4aWJ3dG55eHJkdTh1Nm5jOGZvNmR4cnVobmZpeHJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXX6XfRIsOWf6/giphy.gif" align="center" width="700" height="700"  />
 </div>
 
+### GitHub Stats
+![Sergeypdf Github Stats](https://github-readme-stats.vercel.app/api?username=Sergeypdf&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=dark&ring=FAAD14&hide_border=true&text_color=ffffff&bg_color=1D2125&ring_color=FAAD14&include_all_commits=true)
 ![213925258-47f871c6-d9d5-4264-b85a-1d55312e5da4](https://user-images.githubusercontent.com/67124925/213931024-01c65a7e-fab5-4ff6-b527-6d5f4fdeede2.png)
 
 ![image](https://raw.githubusercontent.com/piscopancer/piscopancer/main/clifford-unger-mads-mikkelsen.gif)
