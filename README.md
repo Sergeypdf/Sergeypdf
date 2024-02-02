@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y3cTZ2dGc2ZjV4NHdja2Nkc2llemQ4d3lqeHlycXl0bWVhYnlvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
 ### Hi! I am Sergey, a web designer/developer focused on crafting great web experiences. 
