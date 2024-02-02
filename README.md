@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y3cTZ2dGc2ZjV4NHdja2Nkc2llemQ4d3lqeHlycXl0bWVhYnlvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
-   <a href="https://www.linkedin.com/in/sergey-voytov-9a731270">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y3cTZ2dGc2ZjV4NHdja2Nkc2llemQ4d3lqeHlycXl0bWVhYnlvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/> 
 </div>
-
+<a href="https://www.linkedin.com/in/sergey-voytov-9a731270">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 ### Hi! I am Sergey, a web designer/developer focused on crafting great web experiences. 
     I enjoy creating beautifully designed, intuitive and functional websites. 👋
 
