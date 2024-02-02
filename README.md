@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/sergey-voytov-9a731270">
     <br>
     <br>
+    <a href="https://www.buymeacoffee.com/sergeypdf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="164"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>     
     <img src="https://komarev.com/ghpvc/?username=Sergeypdf&style=for-the-badge&label=PROFILE+VIEWS" alt=""/>
   </a>
