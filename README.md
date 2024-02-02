@@ -4,9 +4,9 @@
   <a href="https://www.linkedin.com/in/sergey-voytov-9a731270">
     <br>
     <br>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://sergeypdf.com/ghpvc/?username=sergeypdf&style=flat-square&color=blue" alt=""/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>    
   </a>
+  <img src="https://github.com/ghpvc/?username=sergeypdf&style=flat-square&color=blue" alt=""/>
     </div>
 
 ### Hi! I am Sergey, a web designer/developer focused on crafting great web experiences. 
