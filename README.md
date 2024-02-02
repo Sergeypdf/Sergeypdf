@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sergey-voytov-9a731270">
     <br>
     <br>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>     
     <img src="https://komarev.com/ghpvc/?username=Sergeypdf&style=for-the-badge&label=PROFILE+VIEWS" alt=""/>
   </a>
 <h1>
@@ -84,7 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br>
 <div id="header-top" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxqdDVuYzU4aWJ3dG55eHJkdTh1Nm5jOGZvNmR4cnVobmZpeHJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXX6XfRIsOWf6/giphy.gif" align="center" width="700" height="700"  />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxqdDVuYzU4aWJ3dG55eHJkdTh1Nm5jOGZvNmR4cnVobmZpeHJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXX6XfRIsOWf6/giphy.gif" align="center" width="800" height="800" />
 </div>
 
 ### GitHub Stats
