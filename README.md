@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hi! I am Sergey, a web designer/developer focused on crafting great web experiences. 
     I enjoy creating beautifully designed, intuitive and functional websites. 👋
 
