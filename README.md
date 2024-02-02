@@ -5,7 +5,7 @@
     <br>
     <br>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-    <img src="https://komarev.com/ghpvc/?username=Sergeypdf&abbreviated=true" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Sergeypdf&label=PROFILE+VIEWS" alt=""/>
   </a>
 </div>
 
