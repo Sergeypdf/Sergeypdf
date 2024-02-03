@@ -25,7 +25,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: morjestaaa@proton.me
 ---  
 ### <h2> Languages and Tools : <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> </h2> 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,atom,bootstrap,aws,azure,bash,cloudflare,codepen,discord,docker,express,firebase,flask,git,gmail,gulp,instagram,jest,jquery,linux,materialui,mysql,mongodb,nodejs,perl,postman,powershell,pug,postgres,py,react,sass,svg,ts,vscode,webpack,wordpress,figma)](https://skillicons.dev)
 
+
+<!--
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -48,7 +51,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; 
       <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   </div>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
@@ -61,6 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="slack" alt="slack" width="40" height="40"/>&nbsp;
       </div>
+     --> 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
@@ -82,8 +85,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 | Color Shade Tool | [view](#) | - | `JavaScript` `CSS3` `HTML5` |
 | Conceptual Mini Projects | - | [view](https://github.com/) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
 | C++ Special Programs | - | [view](https://github.com/) | `C++` |
-
 <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <div id="header-top" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxqdDVuYzU4aWJ3dG55eHJkdTh1Nm5jOGZvNmR4cnVobmZpeHJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXX6XfRIsOWf6/giphy.gif" align="center" width="800" height="800" />
 </div>
