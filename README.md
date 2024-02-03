@@ -87,7 +87,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 | C++ Special Programs | - | [view](https://github.com/) | `C++` |
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
+
 <div id="header-top" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxqdDVuYzU4aWJ3dG55eHJkdTh1Nm5jOGZvNmR4cnVobmZpeHJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXX6XfRIsOWf6/giphy.gif" align="center" width="800" height="800" />
 </div>
