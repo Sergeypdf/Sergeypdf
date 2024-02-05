@@ -88,13 +88,28 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
+<br>
 <div id="header-top" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&weight=900&size=41&duration=5053&pause=1000&color=FFE7E7&random=false&width=460&height=58&lines=In+the+world+of+IT%2C+every+line+of+code+opens+a+door+to+a+new+reality.;every+line+of+code+;opens+a+door+to+;a+new+reality." alt="Typing SVG" /></a>
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+  <br>
+  <br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxqdDVuYzU4aWJ3dG55eHJkdTh1Nm5jOGZvNmR4cnVobmZpeHJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXX6XfRIsOWf6/giphy.gif" align="center" width="800" height="800" />
 </div>
 
 ### GitHub Stats
-![Sergeypdf Github Stats](https://github-readme-stats.vercel.app/api?username=Sergeypdf&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=dark&ring=FAAD14&hide_border=true&text_color=ffffff&bg_color=1D2125&ring_color=FAAD14&include_all_commits=true)
+
 ![213925258-47f871c6-d9d5-4264-b85a-1d55312e5da4](https://user-images.githubusercontent.com/67124925/213931024-01c65a7e-fab5-4ff6-b527-6d5f4fdeede2.png)
 
 ![image](https://raw.githubusercontent.com/piscopancer/piscopancer/main/clifford-unger-mads-mikkelsen.gif)
