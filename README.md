@@ -108,8 +108,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxqdDVuYzU4aWJ3dG55eHJkdTh1Nm5jOGZvNmR4cnVobmZpeHJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXX6XfRIsOWf6/giphy.gif" align="center" width="800" height="800" />
 </div>
 
-### GitHub Stats
+---
 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+### GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sergeypdf&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![213925258-47f871c6-d9d5-4264-b85a-1d55312e5da4](https://user-images.githubusercontent.com/67124925/213931024-01c65a7e-fab5-4ff6-b527-6d5f4fdeede2.png)
 
 ![image](https://raw.githubusercontent.com/piscopancer/piscopancer/main/clifford-unger-mads-mikkelsen.gif)
