@@ -14,5 +14,5 @@ jobs:
         with:
           token: ${{ secrets.MY_GITHUB_PAT }}
           max_post_count: "3"
-          feed_list: "https://dev.to/feed/sergeypdf"
+          feed_list: "https://dev.to/sergeypdf"
 
