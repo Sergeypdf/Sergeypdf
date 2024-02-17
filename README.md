@@ -120,6 +120,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture> 
+
 ### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sergeypdf&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![213925258-47f871c6-d9d5-4264-b85a-1d55312e5da4](https://user-images.githubusercontent.com/67124925/213931024-01c65a7e-fab5-4ff6-b527-6d5f4fdeede2.png)
