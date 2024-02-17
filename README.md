@@ -116,6 +116,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:END -->
 
 
+![snake svg](https://github.com/Sergeypdf/Sergeypdf/blob/output/github-snake.svg)
 
 
 <picture>
