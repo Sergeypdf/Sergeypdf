@@ -119,6 +119,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![snake svg](https://github.com/Sergeypdf/Sergeypdf/blob/output/github-snake.svg)
 
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
