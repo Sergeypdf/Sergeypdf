@@ -14,7 +14,7 @@ jobs:
       - name: Pull in dev.to posts
       - uses: Sergeypdf/blog-post-workflow@main
         with:
-          token: ${{ secrets.MY_GITHUB_PAT }}
+         # token: ${{ secrets.MY_GITHUB_PAT }}
           max_post_count: "3"
           feed_list: "https://dev.to/feed/sergeypdf"
 
