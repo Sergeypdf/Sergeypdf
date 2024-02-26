@@ -10,7 +10,7 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-     - name: Checkout
+     
       - uses: actions/checkout@v2
       - name: Pull in dev.to posts
       - uses: Sergeypdf/blog-post-workflow@main
