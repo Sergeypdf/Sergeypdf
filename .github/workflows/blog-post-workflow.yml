@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Sergeypdf/blog-post-workflow@master
+      - uses: Sergeypdf/.github/workflows/blog-post-workflow@master
         with:
           token: ${{ secrets.MY_GITHUB_PAT }}
-          max_post_count: "1"
+          max_post_count: "3"
           feed_list: "https://dev.to/feed/Sergeypdf"
 
 
