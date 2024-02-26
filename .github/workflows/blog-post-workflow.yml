@@ -1,19 +1,19 @@
 
-# name: Latest blog post workflow
-#on:
-#  schedule:
-#    - cron: '0 * * * *' # Runs every hour
-#  workflow_dispatch:
+ name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
 
-#jobs:
-#  update-readme-with-blog:
-#    name: Update this repo's README with latest blog posts
- #   runs-on: ubuntu-latest
- #   steps:
- #     - uses: actions/checkout@v2
-  #    - uses: sergeypdf/blog-post-workflow@master
-  #      with:
-   #       token: ${{ secrets.MY_GITHUB_PAT }}
-    #      max_post_count: "3"
-     #     feed_list: "https://dev.to/feed/Sergeypdf" 
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+     - uses: sergeypdf/blog-post-workflow@master
+       with:
+         token: ${{ secrets.MY_GITHUB_PAT }}
+         max_post_count: "3"
+         feed_list: "https://dev.to/feed/Sergeypdf" 
 
