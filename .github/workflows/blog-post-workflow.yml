@@ -10,11 +10,13 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+     - name: Checkout
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Pull in dev.to posts
+      - uses: Sergeypdf/blog-post-workflow@main
         with:
           token: ${{ secrets.MY_GITHUB_PAT }}
           max_post_count: "3"
-          feed_list: "https://dev.to/sergeypdf"
+          feed_list: "https://dev.to/feed/sergeypdf"
 
 
