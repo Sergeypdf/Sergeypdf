@@ -12,7 +12,7 @@ jobs:
     steps:     
       - uses: actions/checkout@v2
       - name: Pull in dev.to posts
-      - uses: Sergeypdf/blog-post-workflow@main
+      - uses: Sergeypdf/Sergeypdf/blog-post-workflow@main
         with:
          # token: ${{ secrets.MY_GITHUB_PAT }}
           max_post_count: "3"
