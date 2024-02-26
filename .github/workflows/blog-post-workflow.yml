@@ -13,7 +13,7 @@ jobs:
       - uses: sergeypdf/blog-post-workflow@master
         with:
           token: ${{ secrets.MY_GITHUB_PAT }}
-          max_post_count: "3"
+          max_post_count: "1"
           feed_list: "https://dev.to/feed/Sergeypdf"
 
 
